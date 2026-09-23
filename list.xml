@@ -1,7 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <channels>
-    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
-    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW" lang="en" xmltv_id="MoviesNow.in@SD">MOVIES NOW</channel>
-    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
-    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ROMEDY_NOW" lang="en" xmltv_id="RomedyNow.in@SD">ROMEDY NOW</channel>
+    <channel site="sky.com" site_id="GB#1120" lang="en" xmltv_id="TNTSports1.uk@HD">TNTSports1 HD</channel>
+    <channel site="sky.com" site_id="GB#3627" lang="en" xmltv_id="TNTSports2.uk@HD">TNTSports2 HD</channel>
+    <channel site="sky.com" site_id="GB#3629" lang="en" xmltv_id="TNTSports3.uk@HD">TNTSports3 HD</channel>
+    <channel site="sky.com" site_id="GB#4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
+    <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
+    <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
+    <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
+    <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
+    <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
+    <channel site="sky.com" site_id="GB#1192" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
+    <channel site="sky.com" site_id="GB#1193" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
+    <channel site="tvhebdo.com" site_id="tsn/TSN1" lang="fr" xmltv_id="TSN1.ca@SD">TSN1</channel>
+    <channel site="tvhebdo.com" site_id="tsn/TSN2" lang="fr" xmltv_id="TSN2.ca@SD">TSN2</channel>
+    <channel site="tvhebdo.com" site_id="tsn/TSN3" lang="fr" xmltv_id="TSN3.ca@SD">TSN3</channel>
+    <channel site="tvhebdo.com" site_id="tsn/TSN4" lang="fr" xmltv_id="TSN4.ca@SD">TSN4</channel>
+    <channel site="tvhebdo.com" site_id="tsn/TSN5" lang="fr" xmltv_id="TSN5.ca@SD">TSN (5)</channel>
 </channels>
