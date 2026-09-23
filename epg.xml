@@ -29,7 +29,7 @@
 <programme start="20260923212800 +0000" stop="20260923230200 +0000" channel="M1SD"><title lang="es">El Fenómeno</title><desc lang="es">El Fenómeno era el niño prodigio que lo tenía todo. Campeón del Mundo a los 17 años. Mejor jugador del año a los 20. Dos veces récord mundial de un traspaso a los 21. Impresionantes goles allá donde jugó. Y entonces, todo le fue brutalmente arrebatado.</desc><icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/M2574314V2178135"/><image>https://estatico.emisiondof6.com/recorte/n/vegend/M2574315H2178135.jpg</image></programme>
 <programme start="20260923230200 +0000" stop="20260924011900 +0000" channel="M1SD"><title lang="es">Disfruta de DAZN en Movistar Plus</title><desc lang="es">Disfruta de DAZN en Movistar Plus</desc></programme>
 <programme start="20260924011900 +0000" stop="20260924051900 +0000" channel="M1SD"><title lang="es">Disfruta de DAZN en Movistar Plus</title><desc lang="es">Disfruta de DAZN en Movistar Plus</desc></programme>
-<programme start="20260924011900 +0000" stop="20260924051900 +0000" channel="M1SD"><title lang="es">Disfruta de DAZN en Movistar Plus</title><desc lang="es">Disfruta de DAZN en Movistar Plus</desc></programme>
+<programme start="20260924051900 +0000" stop="20260924091900 +0000" channel="M1SD"><title lang="es">Disfruta de DAZN en Movistar Plus</title><desc lang="es">Disfruta de DAZN en Movistar Plus</desc></programme>
 <programme start="20260924051900 +0000" stop="20260924091900 +0000" channel="M1SD"><title lang="es">Disfruta de DAZN en Movistar Plus</title><desc lang="es">Disfruta de DAZN en Movistar Plus</desc></programme>
 <programme start="20260924091900 +0000" stop="20260924110000 +0000" channel="M1SD"><title lang="es">Disfruta de DAZN en Movistar Plus</title><desc lang="es">Disfruta de DAZN en Movistar Plus</desc></programme>
 <programme start="20260924110000 +0000" stop="20260924143000 +0000" channel="M1SD"><title lang="es">NFL</title><desc lang="es">La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero. Los Seattle Seahawks defienden título.</desc><icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/F4498807"/><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num><image>https://estatico.emisiondof6.com/recorte/n/vegend/F4498809.jpg</image></programme>
@@ -454,7 +454,6 @@
 <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="TNTSports4.uk@HD"><title lang="en">Sale Sharks v Leicester Tigers</title><desc lang="en">Action from the Gallagher PREM as Leicester Tigers, buoyed by victory over league leaders Northampton Saints, take on a struggling Sale Sharks side at CorpAcq Stadium.</desc><icon src="https://images.metadata.sky.com/pd-image/4b73b0c0-95a7-4ac5-9d72-cc2c884c5503/16-9/640"/><image>https://images.metadata.sky.com/pd-image/4b73b0c0-95a7-4ac5-9d72-cc2c884c5503/16-9/640</image></programme>
 <programme start="20260924220000 +0000" stop="20260924230000 +0000" channel="TNTSports4.uk@HD"><title lang="en">Bristol Bears v Bath Rugby</title><desc lang="en">Gallagher PREM action from this high-stakes West Country Derby between Bristol Bears and Bath Rugby at Ashton Gate.</desc><icon src="https://images.metadata.sky.com/pd-image/4d5153a4-c148-46d3-8d7e-ab7f8a565029/16-9/640"/><image>https://images.metadata.sky.com/pd-image/4d5153a4-c148-46d3-8d7e-ab7f8a565029/16-9/640</image></programme>
 <programme start="20260924230000 +0000" stop="20260925000000 +0000" channel="TNTSports4.uk@HD"><title lang="en">Saracens v Harlequins</title><desc lang="en">Gallagher PREM action from StoneX Stadium as play-off-chasing Saracens go head-to-head with London rivals Harlequins.</desc><icon src="https://images.metadata.sky.com/pd-image/072b6a33-1039-47f0-9aef-1832bea85e1d/16-9/640"/><image>https://images.metadata.sky.com/pd-image/072b6a33-1039-47f0-9aef-1832bea85e1d/16-9/640</image></programme>
-<programme start="20260923070000 +0000" stop="20260923073000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923073000 +0000" stop="20260923083000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923083000 +0000" stop="20260923093000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923093000 +0000" stop="20260923103000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
@@ -479,8 +478,9 @@
 <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="TSN1.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
-<programme start="20260924060000 +0000" stop="20260924063000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924073000 +0000" stop="20260924083000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924083000 +0000" stop="20260924093000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
@@ -496,7 +496,6 @@
 <programme start="20260924230000 +0000" stop="20260925001500 +0000" channel="TSN1.ca@SD"><title lang="fr">TNF Tonight</title></programme>
 <programme start="20260925001500 +0000" stop="20260925033000 +0000" channel="TSN1.ca@SD"><title lang="fr">Football</title></programme>
 <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="TSN1.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
-<programme start="20260923070000 +0000" stop="20260923073000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260923073000 +0000" stop="20260923080000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260923080000 +0000" stop="20260923083000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260923083000 +0000" stop="20260923090000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
@@ -533,8 +532,9 @@
 <programme start="20260924033000 +0000" stop="20260924040000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="TSN2.ca@SD"><title lang="fr">Maple Leaf Pro Wrestling Mayhem</title></programme>
 <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="TSN2.ca@SD"><title lang="fr">Maple Leaf Pro Wrestling Mayhem</title></programme>
-<programme start="20260924050000 +0000" stop="20260924053000 +0000" channel="TSN2.ca@SD"><title lang="fr">AEW: Dynamite</title></programme>
 <programme start="20260924050000 +0000" stop="20260924070000 +0000" channel="TSN2.ca@SD"><title lang="fr">AEW: Dynamite</title></programme>
+<programme start="20260924050000 +0000" stop="20260924070000 +0000" channel="TSN2.ca@SD"><title lang="fr">AEW: Dynamite</title></programme>
+<programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924080000 +0000" stop="20260924083000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
@@ -561,7 +561,6 @@
 <programme start="20260924233000 +0000" stop="20260925030000 +0000" channel="TSN2.ca@SD"><title lang="fr">Football de la NCAA</title></programme>
 <programme start="20260925030000 +0000" stop="20260925033000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
-<programme start="20260923070000 +0000" stop="20260923073000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923073000 +0000" stop="20260923083000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923083000 +0000" stop="20260923093000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923093000 +0000" stop="20260923103000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
@@ -584,8 +583,9 @@
 <programme start="20260924043000 +0000" stop="20260924050000 +0000" channel="TSN3.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
-<programme start="20260924060000 +0000" stop="20260924063000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924073000 +0000" stop="20260924083000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924083000 +0000" stop="20260924093000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
@@ -607,7 +607,6 @@
 <programme start="20260924230000 +0000" stop="20260925001500 +0000" channel="TSN3.ca@SD"><title lang="fr">TNF Tonight</title></programme>
 <programme start="20260925001500 +0000" stop="20260925033000 +0000" channel="TSN3.ca@SD"><title lang="fr">Football</title></programme>
 <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="TSN3.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
-<programme start="20260923070000 +0000" stop="20260923080000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260923080000 +0000" stop="20260923090000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260923090000 +0000" stop="20260923100000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260923100000 +0000" stop="20260923110000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
@@ -629,9 +628,10 @@
 <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN4.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN4.ca@SD"><title lang="fr">Sportscentre</title></programme>
-<programme start="20260924060000 +0000" stop="20260924063000 +0000" channel="TSN4.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN4.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN4.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924080000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
+<programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924080000 +0000" stop="20260924090000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924090000 +0000" stop="20260924100000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924100000 +0000" stop="20260924110000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
@@ -650,7 +650,6 @@
 <programme start="20260924230000 +0000" stop="20260925010000 +0000" channel="TSN4.ca@SD"><title lang="fr">Toronto Tempo Basketball</title></programme>
 <programme start="20260925010000 +0000" stop="20260925033000 +0000" channel="TSN4.ca@SD"><title lang="fr">Football</title></programme>
 <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="TSN4.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
-<programme start="20260923070000 +0000" stop="20260923080000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260923080000 +0000" stop="20260923090000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260923090000 +0000" stop="20260923100000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260923100000 +0000" stop="20260923110000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
@@ -673,9 +672,10 @@
 <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN5.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="TSN5.ca@SD"><title lang="fr">Sportscentre</title></programme>
-<programme start="20260924060000 +0000" stop="20260924063000 +0000" channel="TSN5.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN5.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN5.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924080000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
+<programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924080000 +0000" stop="20260924090000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924090000 +0000" stop="20260924100000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
 <programme start="20260924100000 +0000" stop="20260924110000 +0000" channel="TSN5.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
