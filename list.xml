@@ -4,6 +4,17 @@
     <channel site="sky.com" site_id="GB#3627" lang="en" xmltv_id="TNTSports2.uk@HD">TNTSports2 HD</channel>
     <channel site="sky.com" site_id="GB#3629" lang="en" xmltv_id="TNTSports3.uk@HD">TNTSports3 HD</channel>
     <channel site="sky.com" site_id="GB#4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
+    <channel site="mi.tv" site_id="mx#tnt" lang="es" xmltv_id="TNTLatinAmerica.us@Mexico">TNT</channel>
+    <channel site="mi.tv" site_id="mx#tnt-hd" lang="es" xmltv_id="">TNT HD</channel>
+    <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>
+    <channel site="beinsports.com" site_id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C" lang="en" xmltv_id="beINSports1.qa@MENA">beIN SPORTS 1</channel>
+    <channel site="beinsports.com" site_id="FD1DD7DD-1E7B-4AA2-8682-BFA17338E653" lang="en" xmltv_id="beINSports2.qa@MENA">beIN SPORTS 2</channel>
+    <channel site="beinsports.com" site_id="8AEA2426-D451-4BA5-BF48-114A1F04B1A8" lang="en" xmltv_id="beINSports3.qa@MENA">beIN SPORTS 3</channel>
+    <channel site="beinsports.com" site_id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839" lang="en" xmltv_id="">beIN SPORTS EN 1</channel>
+    <channel site="beinsports.com" site_id="63A30D9C-609D-4A30-8730-2CA391DF287A" lang="en" xmltv_id="beINSports2.qa@Australia">beIN SPORTS 2</channel>
+    <channel site="beinsports.com" site_id="164C0EDA-EBCE-4AA6-9DDA-D603E0948B9F" lang="en" xmltv_id="beINSports1.qa@Australia">beIN SPORTS 1</channel>
+    <channel site="beinsports.com" site_id="2E8A6222-8D90-4291-81E3-AF2F72557746" lang="en" xmltv_id="beINSports3.qa@Australia">beIN SPORTS 3</channel>
+    <channel site="beinsports.com" site_id="C938A2D0-375A-4876-B05D-08EE29D33B07" lang="en" xmltv_id="">beIN SPORTS XTRA</channel>
     <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
     <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
     <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
