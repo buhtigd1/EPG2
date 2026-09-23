@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<channels>
+    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
+    <channel site="visionplus.id" site_id="00000000000000001011" lang="id" xmltv_id="">V+ Sports</channel>
+</channels>
