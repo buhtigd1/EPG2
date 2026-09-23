@@ -20,14 +20,6 @@ TAGS_TO_PROCESS = {
     "sub-title"
 }
 
-# Channel ID replacements
-CHANNEL_REPLACEMENTS = {
-    "TNTSports1.uk@HD": "TNT 1 - AQ",
-    "TNTSports2.uk@HD": "TNT 2 - AQ",
-    "TNTSports3.uk@HD": "TNT 3 - AQ",
-    "TNTSports4.uk@HD": "TNT 4 - AQ",
-}
-
 
 def process_text(text):
     """Decode HTML entities and trim whitespace."""
@@ -48,38 +40,17 @@ def main():
     tree = etree.parse(str(input_file))
     root = tree.getroot()
 
-    text_count = 0
-    channel_count = 0
-    programme_count = 0
+    count = 0
 
     for elem in root.iter():
         tag = elem.tag.lower() if hasattr(elem.tag, "lower") else ""
 
-        # Decode text fields
         if tag in TAGS_TO_PROCESS and elem.text:
             elem.text = process_text(elem.text)
-            text_count += 1
+            count += 1
 
-        # Replace channel IDs
-        if tag == "channel":
-            old_id = elem.get("id")
-            if old_id in CHANNEL_REPLACEMENTS:
-                elem.set("id", CHANNEL_REPLACEMENTS[old_id])
-                channel_count += 1
-
-        # Replace programme channel references
-        elif tag == "programme":
-            old_channel = elem.get("channel")
-            if old_channel in CHANNEL_REPLACEMENTS:
-                elem.set("channel", CHANNEL_REPLACEMENTS[old_channel])
-                programme_count += 1
-
-        if text_count % 500 == 0 and text_count > 0:
-            print(f"Processed {text_count} text items...")
-
-    print(f"Processed text fields : {text_count}")
-    print(f"Replaced channel IDs  : {channel_count}")
-    print(f"Replaced programmes   : {programme_count}")
+            if count % 500 == 0:
+                print(f"Processed {count} items...")
 
     print("Saving epg.xml...")
 
@@ -109,4 +80,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-``
