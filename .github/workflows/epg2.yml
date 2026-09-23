@@ -84,14 +84,20 @@ jobs:
 
           channels = len(root.findall("channel"))
           programmes = len(root.findall("programme"))
-          print(f"==== Unified EPG Stats ====")
+
+          print("==== Unified EPG Stats ====")
           print(f"Total Channels: {channels}")
           print(f"Total Programmes: {programmes}")
 
           if channels == 0 or programmes == 0:
-              print("FATAL: epg.xml has zero channels or programmes. Refusing to commit.")
+              print("FATAL: epg.xml has zero channels or programmes.")
               sys.exit(1)
           PY
+
+      - name: Generate epg.xml.gz
+        run: |
+          gzip -9 -c epg.xml > epg.xml.gz
+          ls -lh epg.xml epg.xml.gz
 
       - name: Generate list.txt Index
         run: |
@@ -111,15 +117,22 @@ jobs:
 
           root = tree.getroot()
           entries = []
+
           for channel in root.findall("channel"):
               tvg_id = channel.attrib.get("xmltv_id", "").strip()
               name = (channel.text or "").strip()
+
               if tvg_id:
                   entries.append(f'{tvg_id} "{name}"')
 
           entries = sorted(set(entries), key=lambda x: x.lower())
-          out.write_text("\n".join(entries), encoding="utf-8")
-          print(f"Generated channels.txt index with {len(entries)} items.")
+
+          out.write_text(
+              "\n".join(entries),
+              encoding="utf-8"
+          )
+
+          print(f"Generated list.txt with {len(entries)} items.")
           PY
 
       - name: Cleanup backup file
@@ -131,7 +144,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -A 
+          git add epg.xml epg.xml.gz list.txt
 
           if git diff-index --quiet HEAD --; then
             echo "No changes detected. Skipping commit."
@@ -144,39 +157,28 @@ jobs:
           IS_AMEND=false
 
           if [ "$LAST_AUTHOR" = "$BOT_EMAIL" ]; then
-            echo "Last commit by bot. Amending..."
             git commit --amend --no-edit --date="$TIMESTAMP"
             IS_AMEND=true
           else
-            echo "Last commit by user. Creating new commit..."
             git commit -m "Auto-Update $TIMESTAMP"
           fi
 
           for i in 1 2 3; do
-            echo "Syncing with remote (Attempt $i/3)..."
             git fetch origin main
 
             if ! git rebase origin/main -Xtheirs; then
-              echo "Rebase failed. Aborting."
               git rebase --abort
               exit 1
             fi
 
-            echo "Pushing changes..."
             if [ "$IS_AMEND" = true ]; then
-              PUSH_CMD="git push origin main --force-with-lease"
+              git push origin main --force-with-lease && exit 0
             else
-              PUSH_CMD="git push origin main"
+              git push origin main && exit 0
             fi
 
-            if $PUSH_CMD; then
-              echo "Push done."
-              exit 0
-            fi
-
-            echo "Push rejected, tried rebase ..."
             sleep 2
           done
 
-          echo "Push failed 3 times."
+          echo "Push failed."
           exit 1
