@@ -160,7 +160,7 @@ jobs:
             git commit --amend --no-edit --date="$TIMESTAMP"
             IS_AMEND=true
           else
-            git commit -m "Update $TIMESTAMP"
+            git commit -m "Auto-Update $TIMESTAMP"
           fi
 
           for i in 1 2 3; do
