@@ -454,7 +454,6 @@
 <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="TNTSports4.uk@HD"><title lang="en">Sale Sharks v Leicester Tigers</title><desc lang="en">Action from the Gallagher PREM as Leicester Tigers, buoyed by victory over league leaders Northampton Saints, take on a struggling Sale Sharks side at CorpAcq Stadium.</desc><icon src="https://images.metadata.sky.com/pd-image/4b73b0c0-95a7-4ac5-9d72-cc2c884c5503/16-9/640"/><image>https://images.metadata.sky.com/pd-image/4b73b0c0-95a7-4ac5-9d72-cc2c884c5503/16-9/640</image></programme>
 <programme start="20260924220000 +0000" stop="20260924230000 +0000" channel="TNTSports4.uk@HD"><title lang="en">Bristol Bears v Bath Rugby</title><desc lang="en">Gallagher PREM action from this high-stakes West Country Derby between Bristol Bears and Bath Rugby at Ashton Gate.</desc><icon src="https://images.metadata.sky.com/pd-image/4d5153a4-c148-46d3-8d7e-ab7f8a565029/16-9/640"/><image>https://images.metadata.sky.com/pd-image/4d5153a4-c148-46d3-8d7e-ab7f8a565029/16-9/640</image></programme>
 <programme start="20260924230000 +0000" stop="20260925000000 +0000" channel="TNTSports4.uk@HD"><title lang="en">Saracens v Harlequins</title><desc lang="en">Gallagher PREM action from StoneX Stadium as play-off-chasing Saracens go head-to-head with London rivals Harlequins.</desc><icon src="https://images.metadata.sky.com/pd-image/072b6a33-1039-47f0-9aef-1832bea85e1d/16-9/640"/><image>https://images.metadata.sky.com/pd-image/072b6a33-1039-47f0-9aef-1832bea85e1d/16-9/640</image></programme>
-<programme start="20260923073000 +0000" stop="20260923083000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923083000 +0000" stop="20260923093000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923093000 +0000" stop="20260923103000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923103000 +0000" stop="20260923113000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
@@ -482,6 +481,7 @@
 <programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924073000 +0000" stop="20260924083000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924083000 +0000" stop="20260924093000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924093000 +0000" stop="20260924103000 +0000" channel="TSN1.ca@SD"><title lang="fr">Sportscentre</title></programme>
@@ -496,7 +496,6 @@
 <programme start="20260924230000 +0000" stop="20260925001500 +0000" channel="TSN1.ca@SD"><title lang="fr">TNF Tonight</title></programme>
 <programme start="20260925001500 +0000" stop="20260925033000 +0000" channel="TSN1.ca@SD"><title lang="fr">Football</title></programme>
 <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="TSN1.ca@SD"><title lang="fr">SC With Jay and Dan</title></programme>
-<programme start="20260923073000 +0000" stop="20260923080000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260923080000 +0000" stop="20260923083000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260923083000 +0000" stop="20260923090000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260923090000 +0000" stop="20260923093000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
@@ -537,6 +536,7 @@
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
+<programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924080000 +0000" stop="20260924083000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924083000 +0000" stop="20260924090000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260924090000 +0000" stop="20260924093000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
@@ -561,7 +561,6 @@
 <programme start="20260924233000 +0000" stop="20260925030000 +0000" channel="TSN2.ca@SD"><title lang="fr">Football de la NCAA</title></programme>
 <programme start="20260925030000 +0000" stop="20260925033000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
 <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="TSN2.ca@SD"><title lang="fr">SC</title></programme>
-<programme start="20260923073000 +0000" stop="20260923083000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923083000 +0000" stop="20260923093000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923093000 +0000" stop="20260923103000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260923103000 +0000" stop="20260923113000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
@@ -587,6 +586,7 @@
 <programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
+<programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924073000 +0000" stop="20260924083000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924083000 +0000" stop="20260924093000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
 <programme start="20260924093000 +0000" stop="20260924103000 +0000" channel="TSN3.ca@SD"><title lang="fr">Sportscentre</title></programme>
