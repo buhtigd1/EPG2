@@ -1,1 +1,4 @@
 MNX.in@SD "MNX"
+MoviesNow.in@SD "MOVIES NOW"
+MoviesNowPlus.in@SD "MN+"
+RomedyNow.in@SD "ROMEDY NOW"
