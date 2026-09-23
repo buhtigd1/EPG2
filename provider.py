@@ -20,6 +20,14 @@ TAGS_TO_PROCESS = {
     "sub-title"
 }
 
+# Direct channel ID replacements
+CHANNEL_REPLACEMENTS = {
+    "TNTSports1.uk@HD": "TNT 1 - AQ",
+    "TNTSports2.uk@HD": "TNT 2 - AQ",
+    "TNTSports3.uk@HD": "TNT 3 - AQ",
+    "TNTSports4.uk@HD": "TNT 4 - AQ",
+}
+
 
 def process_text(text):
     """Decode HTML entities and trim whitespace."""
@@ -40,17 +48,26 @@ def main():
     tree = etree.parse(str(input_file))
     root = tree.getroot()
 
-    count = 0
+    text_count = 0
+    channel_count = 0
 
     for elem in root.iter():
         tag = elem.tag.lower() if hasattr(elem.tag, "lower") else ""
 
+        # Process text fields
         if tag in TAGS_TO_PROCESS and elem.text:
             elem.text = process_text(elem.text)
-            count += 1
+            text_count += 1
 
-            if count % 500 == 0:
-                print(f"Processed {count} items...")
+        # Direct channel ID replacement
+        if tag == "channel":
+            channel_id = elem.get("id")
+            if channel_id in CHANNEL_REPLACEMENTS:
+                elem.set("id", CHANNEL_REPLACEMENTS[channel_id])
+                channel_count += 1
+
+    print(f"Processed {text_count} text items")
+    print(f"Replaced {channel_count} channel IDs")
 
     print("Saving epg.xml...")
 
