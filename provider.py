@@ -20,7 +20,7 @@ TAGS_TO_PROCESS = {
     "sub-title"
 }
 
-# Direct channel ID replacements
+# Channel ID replacements
 CHANNEL_REPLACEMENTS = {
     "TNTSports1.uk@HD": "TNT 1 - AQ",
     "TNTSports2.uk@HD": "TNT 2 - AQ",
@@ -50,24 +50,36 @@ def main():
 
     text_count = 0
     channel_count = 0
+    programme_count = 0
 
     for elem in root.iter():
         tag = elem.tag.lower() if hasattr(elem.tag, "lower") else ""
 
-        # Process text fields
+        # Decode text fields
         if tag in TAGS_TO_PROCESS and elem.text:
             elem.text = process_text(elem.text)
             text_count += 1
 
-        # Direct channel ID replacement
+        # Replace channel IDs
         if tag == "channel":
-            channel_id = elem.get("id")
-            if channel_id in CHANNEL_REPLACEMENTS:
-                elem.set("id", CHANNEL_REPLACEMENTS[channel_id])
+            old_id = elem.get("id")
+            if old_id in CHANNEL_REPLACEMENTS:
+                elem.set("id", CHANNEL_REPLACEMENTS[old_id])
                 channel_count += 1
 
-    print(f"Processed {text_count} text items")
-    print(f"Replaced {channel_count} channel IDs")
+        # Replace programme channel references
+        elif tag == "programme":
+            old_channel = elem.get("channel")
+            if old_channel in CHANNEL_REPLACEMENTS:
+                elem.set("channel", CHANNEL_REPLACEMENTS[old_channel])
+                programme_count += 1
+
+        if text_count % 500 == 0 and text_count > 0:
+            print(f"Processed {text_count} text items...")
+
+    print(f"Processed text fields : {text_count}")
+    print(f"Replaced channel IDs  : {channel_count}")
+    print(f"Replaced programmes   : {programme_count}")
 
     print("Saving epg.xml...")
 
@@ -97,3 +109,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+``
