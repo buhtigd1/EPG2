@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <channels>
     <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNX" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
-    <channel site="visionplus.id" site_id="00000000000000001011" lang="id" xmltv_id="">V+ Sports</channel>
+    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MOVIES_NOW" lang="en" xmltv_id="MoviesNow.in@SD">MOVIES NOW</channel>
+    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
+    <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ROMEDY_NOW" lang="en" xmltv_id="RomedyNow.in@SD">ROMEDY NOW</channel>
 </channels>
