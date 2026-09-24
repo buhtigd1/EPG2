@@ -15,16 +15,32 @@
     <channel site="beinsports.com" site_id="164C0EDA-EBCE-4AA6-9DDA-D603E0948B9F" lang="en" xmltv_id="beINSports1.qa@Australia">beIN SPORTS 1</channel>
     <channel site="beinsports.com" site_id="2E8A6222-8D90-4291-81E3-AF2F72557746" lang="en" xmltv_id="beINSports3.qa@Australia">beIN SPORTS 3</channel>
     <channel site="beinsports.com" site_id="C938A2D0-375A-4876-B05D-08EE29D33B07" lang="en" xmltv_id="">beIN SPORTS XTRA</channel>
-    <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
-    <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
-    <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
-    <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
-    <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
-    <channel site="sky.com" site_id="GB#1192" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
-    <channel site="sky.com" site_id="GB#1193" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
+    <channel site="dazn.com" site_id="1vi4p39obt24i1dtsmthi921tl" lang="de" logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN-FAST_PLUS/contain/center/center/none/80/68/56/png/image?brand=dazn" xmltv_id="">DAZN FAST+</channel>
+    <channel site="dazn.com" site_id="1xx7lone8fvv21a2rpc5cji3jx" lang="de" logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_RISE/contain/center/center/none/80/68/56/png/image?brand=dazn" xmltv_id="">DAZN RISE</channel>
+    <channel site="tvtv.us" site_id="10179" lang="en" xmltv_id="ESPN.us@SD">ESPN</channel>
+    <channel site="tvtv.us" site_id="25595" lang="en" xmltv_id="ESPNDeportes.us@SD">ESPN Deportes</channel>
+    <channel site="tvtv.us" site_id="45507" lang="en" xmltv_id="ESPN2.us@SD">ESPN 2</channel>
+    <channel site="tvtv.us" site_id="45654" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
+    <channel site="guiadetv.com" site_id="sportv" lang="pt" xmltv_id="">SporTV</channel>
+    <channel site="guiadetv.com" site_id="sportv-2" lang="pt" xmltv_id="">SporTV 2</channel>
+    <channel site="guiadetv.com" site_id="sportv-3" lang="pt" xmltv_id="">SporTV 3</channel>
+    <channel site="tataplay.com" site_id="1489" lang="en" xmltv_id="">Tata Play Fancode Sports</channel>
+    <channel site="tataplay.com" site_id="1786" lang="en" xmltv_id="">Tata Play Fancode Sports +1</channel>
     <channel site="tvhebdo.com" site_id="tsn/TSN1" lang="fr" xmltv_id="TSN1.ca@SD">TSN1</channel>
     <channel site="tvhebdo.com" site_id="tsn/TSN2" lang="fr" xmltv_id="TSN2.ca@SD">TSN2</channel>
     <channel site="tvhebdo.com" site_id="tsn/TSN3" lang="fr" xmltv_id="TSN3.ca@SD">TSN3</channel>
     <channel site="tvhebdo.com" site_id="tsn/TSN4" lang="fr" xmltv_id="TSN4.ca@SD">TSN4</channel>
     <channel site="tvhebdo.com" site_id="tsn/TSN5" lang="fr" xmltv_id="TSN5.ca@SD">TSN (5)</channel>
+    <channel site="sky.com" site_id="GB#1192" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
+    <channel site="sky.com" site_id="GB#1193" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
+    <channel site="sky.com" site_id="DE#268" lang="de" xmltv_id="SkySport1.de@HD">Sky Sport 1 HD</channel>
+    <channel site="sky.com" site_id="DE#278" lang="de" xmltv_id="SkySport2.de@HD">Sky Sport 2 HD</channel>
+    <channel site="www.magenta.tv" site_id="389264424237" lang="de" xmltv_id="">Sky Sport Bundesliga</channel>
+    <channel site="sky.com" site_id="GB#3835" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
+    <channel site="tvtv.us" site_id="11207" lang="en" xmltv_id="USANetwork.us@East">USA Network East</channel> 
+    <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
+    <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
+    <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
+    <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
+    <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
 </channels>
