@@ -6,7 +6,8 @@
     <channel site="sky.com" site_id="GB#4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
     <channel site="mi.tv" site_id="mx#tnt" lang="es" xmltv_id="TNTLatinAmerica.us@Mexico">TNT</channel>
     <channel site="mi.tv" site_id="mx#tnt-hd" lang="es" xmltv_id="">TNT HD</channel>
-    <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us@SD">Willow</channel>
+    <channel site="epgshare01.online" site_id="US1#Willow.Cricket.HDTV.(WILLOWHD).us" lang="en" xmltv_id="">Willow Cricket HDTV (WILLOWHD)</channel>
+    <channel site="epgshare01.online" site_id="US1#Willow.Xtra.us" lang="en" xmltv_id="">Willow Xtra</channel>
     <channel site="beinsports.com" site_id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C" lang="en" xmltv_id="beINSports1.qa@MENA">beIN SPORTS 1</channel>
     <channel site="beinsports.com" site_id="FD1DD7DD-1E7B-4AA2-8682-BFA17338E653" lang="en" xmltv_id="beINSports2.qa@MENA">beIN SPORTS 2</channel>
     <channel site="beinsports.com" site_id="8AEA2426-D451-4BA5-BF48-114A1F04B1A8" lang="en" xmltv_id="beINSports3.qa@MENA">beIN SPORTS 3</channel>
@@ -17,10 +18,14 @@
     <channel site="beinsports.com" site_id="C938A2D0-375A-4876-B05D-08EE29D33B07" lang="en" xmltv_id="">beIN SPORTS XTRA</channel>
     <channel site="dazn.com" site_id="1vi4p39obt24i1dtsmthi921tl" lang="de" logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN-FAST_PLUS/contain/center/center/none/80/68/56/png/image?brand=dazn" xmltv_id="">DAZN FAST+</channel>
     <channel site="dazn.com" site_id="1xx7lone8fvv21a2rpc5cji3jx" lang="de" logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_RISE/contain/center/center/none/80/68/56/png/image?brand=dazn" xmltv_id="">DAZN RISE</channel>
-    <channel site="tvtv.us" site_id="10179" lang="en" xmltv_id="ESPN.us@SD">ESPN</channel>
-    <channel site="tvtv.us" site_id="25595" lang="en" xmltv_id="ESPNDeportes.us@SD">ESPN Deportes</channel>
-    <channel site="tvtv.us" site_id="45507" lang="en" xmltv_id="ESPN2.us@SD">ESPN 2</channel>
-    <channel site="tvtv.us" site_id="45654" lang="en" xmltv_id="ESPNU.us@SD">ESPNU</channel>
+    <channel site="epgshare01.online" site_id="US1#ESPN.us" lang="en" xmltv_id="">ESPN</channel>
+    <channel site="epgshare01.online" site_id="US1#ESPN2.us" lang="en" xmltv_id="">ESPN2</channel>
+    <channel site="epgshare01.online" site_id="US1#ESPN.Deportes.us" lang="en" xmltv_id="">ESPN Deportes</channel>
+    <channel site="epgshare01.online" site_id="US1#ESPN.U.us" lang="en" xmltv_id="">ESPN U</channel>
+    <channel site="epgshare01.online" site_id="US1#The.Tennis.Channel.us" lang="en" xmltv_id="">The Tennis Channel</channel>
+    <channel site="epgshare01.online" site_id="US1#Fox.Sports.1.us" lang="en" xmltv_id="">Fox Sports 1</channel>
+    <channel site="epgshare01.online" site_id="US1#Fox.Sports.2.us" lang="en" xmltv_id="">Fox Sports 2</channel>
+    <channel site="dazn.com" site_id="us#ta9r7upeuzb1koxdxu1g5br3" lang="en" logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_FUBO_TV/contain/center/center/none/80/68/56/png/image?brand=dazn" xmltv_id="">Fubo Sports</channel>
     <channel site="guiadetv.com" site_id="sportv" lang="pt" xmltv_id="">SporTV</channel>
     <channel site="guiadetv.com" site_id="sportv-2" lang="pt" xmltv_id="">SporTV 2</channel>
     <channel site="guiadetv.com" site_id="sportv-3" lang="pt" xmltv_id="">SporTV 3</channel>
@@ -37,7 +42,7 @@
     <channel site="sky.com" site_id="DE#278" lang="de" xmltv_id="SkySport2.de@HD">Sky Sport 2 HD</channel>
     <channel site="www.magenta.tv" site_id="389264424237" lang="de" xmltv_id="">Sky Sport Bundesliga</channel>
     <channel site="sky.com" site_id="GB#3835" lang="en" xmltv_id="SkySportsF1.uk@HD">SkySp F1 HD</channel>
-    <channel site="tvtv.us" site_id="11207" lang="en" xmltv_id="USANetwork.us@East">USA Network East</channel> 
+    <channel site="epgshare01.online" site_id="US1#USA.Network.-.East.Feed.us" lang="en" xmltv_id="">USA Network - East Feed</channel>
     <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
     <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
     <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
