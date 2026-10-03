@@ -48,4 +48,7 @@
     <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
     <channel site="vodafone.pt" site_id="2688" lang="pt" xmltv_id="SportTV2.pt@SD">SportTV2</channel>
     <channel site="vodafone.pt" site_id="2689" lang="pt" xmltv_id="SportTV3.pt@SD">SportTV3</channel>
+    <channel site="vivoplay.com.br" site_id="lch216" lang="pt" xmltv_id="">Sportv</channel>
+    <channel site="vivoplay.com.br" site_id="lch217" lang="pt" xmltv_id="">Sportv 2</channel>
+    <channel site="vivoplay.com.br" site_id="lch1210" lang="pt" xmltv_id="">SporTV 3</channel>  
 </channels>
